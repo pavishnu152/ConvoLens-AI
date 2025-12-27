@@ -152,7 +152,7 @@ text
 - Streamlit
 - AssemblyAI (speech-to-text API) [web:1082]
 - LM Studio (OpenAI-compatible local LLM server) [web:849]
-- Local models: Phi‑3-mini / Qwen2.5‑3B Instruct (GGUF) [web:1014][web:1024]
+- Local models: Phi‑3-mini Instruct (GGUF) [web:1014]
 - httpx, python-dotenv, and other utility libraries
 
 ---
